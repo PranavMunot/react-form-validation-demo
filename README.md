@@ -1,6 +1,6 @@
 # React Form Validation Demo
 
-This is a simple demo app for showing how to do basic form validation in React.
+This simple demo app shows how to do basic form validation in React and Bootstrap.
 
 [See the app running on Heroku](https://reactform.herokuapp.com).
 
